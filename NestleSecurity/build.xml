@@ -19,6 +19,8 @@
         <pathelement location="bin"/>
         <path refid="JUnit 4.libraryclasspath"/>
         <pathelement location="../../Downloads/selenium-server-standalone-2.40.0.jar"/>
+        <pathelement location="../../Documents/selenium-server-standalone-2.38.0.jar"/>
+        <pathelement location="../../../../usr/share/eclipse/dropins/junit-4.11.jar"/>
     </path>
     <target name="init">
         <mkdir dir="bin"/>
